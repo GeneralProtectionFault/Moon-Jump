@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 57ba979047adb5e4eaf578c2dc4d7ebc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audio: {instanceID: 0}
+  - bonkSound: {fileID: 8300000, guid: 322f321c1418e5141bb33e948d4fc2e6, type: 3}
+  - deathSound: {fileID: 8300000, guid: 2472bf4c05ae000438b8fa677cea32b5, type: 3}
+  - jumpSound: {fileID: 8300000, guid: ce9ec823d45218146af06882d69a044c, type: 3}
+  - moonJumpSound: {fileID: 8300000, guid: da112539bba5c244db756d8fafbb1c0f, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

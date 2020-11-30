@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PortalCollider
+  - SceneBoundary
+  - OneWayUpPlatform
+  - OneWayDownPlatform
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - SceneEdges
+  - Goo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3624021599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hazards
+    uniqueID: 3340410909
+    locked: 0
+  - name: Foreground
+    uniqueID: 3787221635
+    locked: 0
